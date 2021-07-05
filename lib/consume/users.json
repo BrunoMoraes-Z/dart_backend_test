@@ -1,0 +1,38 @@
+[
+    {
+        "id": "bc3b86ad-75d2-47a4-bb64-3d22d0cb1c28",
+        "name": "Iago Victor Figueiredo",
+        "cpf": "00132666677",
+        "rg": "205837323",
+        "dt_nascimento": "26/03/1995",
+        "email": "00132666677@getnada.com",
+        "cep": "29132539"
+    },
+    {
+        "id": "3c8a84ca-a1c9-4b79-a6c0-c27705901538",
+        "name": "Flávia Alana Emanuelly dos Santos",
+        "cpf": "54915745899",
+        "rg": "490840462",
+        "dt_nascimento": "04/04/1958",
+        "email": "54915745899@getnada.com",
+        "cep": "41741400"
+    },
+    {
+        "id": "0ab097da-9a80-40e6-9da4-2ae595baf4ab",
+        "name": "Francisco Benjamin Antonio Oliveira",
+        "cpf": "67736981388",
+        "rg": "454507306",
+        "dt_nascimento": "25/10/1976",
+        "email": "67736981388@getnada.com",
+        "cep": "97545540"
+    },
+    {
+        "id": "b66b0be8-c938-4bab-8ef1-4c17955037dc",
+        "name": "Andreia Sueli Pires",
+        "cpf": "41704730198",
+        "rg": "431005813",
+        "dt_nascimento": "03/12/1971",
+        "email": "41704730198@getnada.com",
+        "cep": "76906580"
+    }
+]
